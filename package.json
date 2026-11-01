@@ -23,7 +23,6 @@
     "zod": "^4.6.5"
   },
   "devDependencies": {
-    "@rolldown/binding-win32-x64-msvc": "^1.2.12",
     "@tailwindcss/forms": "^0.5.11",
     "@testing-library/jest-dom": "^7.0.1",
     "@testing-library/react": "^16.3.3",
